@@ -2610,6 +2610,7 @@ input, select, textarea {
 		list-style: none;
 		padding-left: 0;
         text-align: center;
+        margin: 0 auto;
 	}
 
 		ul.icons li {
@@ -3685,11 +3686,6 @@ input, select, textarea {
 		width: calc(100% + 2em);
 		margin: 0 0 3em -2em;
 	}
-
-		#footer > * {
-			width: calc(50% - 2em);
-			margin-left: 2em;
-		}
 
 		#footer .copyright {
 			width: 100%;
